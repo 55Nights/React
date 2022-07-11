@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'suit';
+    src: url(../public/SUIT-Regular.woff2);
+}
+h1{
+    font-family: 'suit';
+}
